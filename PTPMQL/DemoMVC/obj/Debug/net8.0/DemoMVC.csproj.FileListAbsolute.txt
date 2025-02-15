@@ -28,3 +28,4 @@ C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\Demo
 C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\DemoMVC.pdb
 C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\DemoMVC.genruntimeconfig.cache
 C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\ref\DemoMVC.dll
+C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\DemoMVC.sourcelink.json
