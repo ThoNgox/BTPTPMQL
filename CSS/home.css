@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>Trần Việt Đức</h1>
+<p>Student ID: 2121050751</p>
+<p>
+  This paragraph demonstrates the basic use of CSS to style text and layouts in an HTML document. CSS allows you to customize colors, fonts, and overall appearance of your website.
+</p>
+
+</body>
+</html>
+
