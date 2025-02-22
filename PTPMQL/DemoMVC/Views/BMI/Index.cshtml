@@ -1,0 +1,19 @@
+@model DemoMVC.Models.BMIModel
+
+<h2>Tính Chỉ Số BMI</h2>
+
+<form method="post">
+    <label>Cân nặng (kg):</label>
+    <input type="number" step="0.1" name="Weight" required>
+
+    <label>Chiều cao (m):</label>
+    <input type="number" step="0.01" name="Height" required>
+
+    <button type="submit">Tính BMI</button>
+</form>
+
+@if (ViewBag.BMI != null)
+{
+    <h3>BMI: @ViewBag.BMI</h3>
+    <p>Kết luận: @ViewBag.Result</p>
+}

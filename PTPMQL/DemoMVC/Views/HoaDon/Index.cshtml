@@ -1,0 +1,14 @@
+<form method="post">
+    <label>Số lượng:</label>
+    <input type="number" name="SoLuong" required>
+
+    <label>Đơn giá:</label>
+    <input type="number" step="0.01" name="DonGia" required>
+
+    <button type="submit">Tính tiền</button>
+</form>
+
+@if (ViewBag.TongTien != null)
+{
+    <h3>Tổng tiền: @ViewBag.TongTien</h3>
+}

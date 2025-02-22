@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tranv\\OneDrive\\Máy tính\\bt thầy hiển\\1301\\BaiThucHanh\\PTPMQL\\DemoMVC\\DemoMVC.csproj": {}
+    "/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/DemoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tranv\\OneDrive\\Máy tính\\bt thầy hiển\\1301\\BaiThucHanh\\PTPMQL\\DemoMVC\\DemoMVC.csproj": {
+    "/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/DemoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tranv\\OneDrive\\Máy tính\\bt thầy hiển\\1301\\BaiThucHanh\\PTPMQL\\DemoMVC\\DemoMVC.csproj",
+        "projectUniqueName": "/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/DemoMVC.csproj",
         "projectName": "DemoMVC",
-        "projectPath": "C:\\Users\\tranv\\OneDrive\\Máy tính\\bt thầy hiển\\1301\\BaiThucHanh\\PTPMQL\\DemoMVC\\DemoMVC.csproj",
-        "packagesPath": "C:\\Users\\tranv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tranv\\OneDrive\\Máy tính\\bt thầy hiển\\1301\\BaiThucHanh\\PTPMQL\\DemoMVC\\obj\\",
+        "projectPath": "/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/DemoMVC.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tranv\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,22 @@
+@model DemoMVC.Models.DiemModel
+
+<h2>Tính Điểm Tổng Kết</h2>
+
+<form method="post">
+    <label>Điểm A:</label>
+    <input type="number" step="0.1" name="A" required>
+
+    <label>Điểm B:</label>
+    <input type="number" step="0.1" name="B" required>
+
+    <label>Điểm C:</label>
+    <input type="number" step="0.1" name="C" required>
+
+    <button type="submit">Tính điểm</button>
+</form>
+
+@if (ViewBag.FinalScore != null)
+{
+    <h3>Điểm tổng kết: @ViewBag.FinalScore</h3>
+    <p>Xếp loại: @ViewBag.Grade</p>
+}

@@ -1,31 +1,62 @@
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\bin\Debug\net8.0\appsettings.json
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\bin\Debug\net8.0\DemoMVC.staticwebassets.runtime.json
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\bin\Debug\net8.0\DemoMVC.exe
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\bin\Debug\net8.0\DemoMVC.deps.json
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\bin\Debug\net8.0\DemoMVC.runtimeconfig.json
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\bin\Debug\net8.0\DemoMVC.dll
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\bin\Debug\net8.0\DemoMVC.pdb
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\DemoMVC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\DemoMVC.AssemblyInfoInputs.cache
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\DemoMVC.AssemblyInfo.cs
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\DemoMVC.csproj.CoreCompileInputs.cache
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\DemoMVC.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\DemoMVC.RazorAssemblyInfo.cache
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\DemoMVC.RazorAssemblyInfo.cs
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\staticwebassets\msbuild.DemoMVC.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.DemoMVC.props
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DemoMVC.props
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DemoMVC.props
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\scopedcss\bundle\DemoMVC.styles.css
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\scopedcss\projectbundle\DemoMVC.bundle.scp.css
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\DemoMVC.dll
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\refint\DemoMVC.dll
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\DemoMVC.pdb
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\DemoMVC.genruntimeconfig.cache
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\ref\DemoMVC.dll
-C:\Users\tranv\OneDrive\Máy tính\bt thầy hiển\1301\BaiThucHanh\PTPMQL\DemoMVC\obj\Debug\net8.0\DemoMVC.sourcelink.json
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/bin/Debug/net8.0/appsettings.json
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/bin/Debug/net8.0/DemoMVC.staticwebassets.runtime.json
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/bin/Debug/net8.0/DemoMVC.exe
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/bin/Debug/net8.0/DemoMVC.deps.json
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/bin/Debug/net8.0/DemoMVC.runtimeconfig.json
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/bin/Debug/net8.0/DemoMVC.dll
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/bin/Debug/net8.0/DemoMVC.pdb
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.AssemblyInfoInputs.cache
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.AssemblyInfo.cs
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.csproj.CoreCompileInputs.cache
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.RazorAssemblyInfo.cache
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.RazorAssemblyInfo.cs
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/staticwebassets/msbuild.DemoMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/staticwebassets/msbuild.build.DemoMVC.props
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DemoMVC.props
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DemoMVC.props
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/scopedcss/bundle/DemoMVC.styles.css
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/scopedcss/projectbundle/DemoMVC.bundle.scp.css
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.dll
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/refint/DemoMVC.dll
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.pdb
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.genruntimeconfig.cache
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/ref/DemoMVC.dll
+C:/Users/tranv/OneDrive/Máy tính/bt thầy hiển/1301/BaiThucHanh/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.sourcelink.json
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.AssemblyInfoInputs.cache
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.AssemblyInfo.cs
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.csproj.CoreCompileInputs.cache
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.MvcApplicationPartsAssemblyInfo.cache
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.RazorAssemblyInfo.cache
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.RazorAssemblyInfo.cs
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.sourcelink.json
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.dll
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/refint/DemoMVC.dll
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.pdb
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/bin/Debug/net8.0/appsettings.Development.json
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/bin/Debug/net8.0/appsettings.json
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/bin/Debug/net8.0/DemoMVC.staticwebassets.runtime.json
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/bin/Debug/net8.0/DemoMVC
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/bin/Debug/net8.0/DemoMVC.deps.json
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/bin/Debug/net8.0/DemoMVC.runtimeconfig.json
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/bin/Debug/net8.0/DemoMVC.dll
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/bin/Debug/net8.0/DemoMVC.pdb
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/staticwebassets.build.json
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/staticwebassets.development.json
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/staticwebassets/msbuild.DemoMVC.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/staticwebassets/msbuild.build.DemoMVC.props
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DemoMVC.props
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DemoMVC.props
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/scopedcss/bundle/DemoMVC.styles.css
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/scopedcss/projectbundle/DemoMVC.bundle.scp.css
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/DemoMVC.genruntimeconfig.cache
+/Users/admin/BTPTPMQL/PTPMQL/DemoMVC/obj/Debug/net8.0/ref/DemoMVC.dll
