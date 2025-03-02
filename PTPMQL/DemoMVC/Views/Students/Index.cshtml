@@ -1,0 +1,23 @@
+@model IEnumerable<DemoMVC.Models.Student>
+
+<h2>Students List</h2>
+
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Email</th>
+    </tr>
+    @foreach (var student in Model)
+    {
+        <tr>
+            <td>@student.ID</td>
+            <td>@student.Name</td>
+            <td>@student.Age</td>
+            <td>@student.Email</td>
+        </tr>
+    }
+</table>
+
+<a asp-action="Create">Add New Student</a>
