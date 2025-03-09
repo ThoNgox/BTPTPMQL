@@ -1,0 +1,27 @@
+@model MvcMovie.Models.Employee
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<h1>Danh sách nhân viên</h1>
+<table border="1">
+    <thead>
+        <tr>
+            <th>ID Nhân viên</th>
+            <th>ID Person</th>
+            <th>Tên</th>
+            <th>Địa chỉ</th>
+            <th>Tuổi</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.EmployeeId</td>
+            <td>@Model.PersonId</td>
+            <td>@Model.FullName</td>
+            <td>@Model.Address</td>
+            <td>@Model.Age</td>
+        </tr>
+    </tbody>
+</table>
+<a asp-action="Profile">Xem hồ sơ</a>
